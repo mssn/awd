@@ -10,9 +10,6 @@ This repository provides supplemental materials for the paper:
 - **fig2/**  
   Example images demonstrating the challenges discussed in the paper (small weed size and high similarity to turfgrass).
 
-- **fig_design/**  
-  Images used to illustrate the design of A4AWD.
-
 - **fig6/**  
   Example images showing detection results.
 
