@@ -4,9 +4,6 @@ This repository provides supplemental materials for the paper:
 
 **A4AWD: Augmenting Aerial Weed Detection over Residential Lawns**
 
-The repository contains raw aerial images used in the paper figures and examples.  
-These images are provided to improve transparency and reproducibility of our results.
-
 ---
 ## Repository Structure
 
